@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.txt
+bin/snusp
+dist.ini
+examples/fizzbuzz.snusp
+lib/Language/SNUSP.pm
+t/test.t
