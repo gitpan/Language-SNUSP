@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "A SNUSP interpreter written in Perl",
+  "ABSTRACT" => "A SNUSP Interpreter and Visual Debugger",
   "AUTHOR" => "Ingy d\303\266t Net <ingy\@cpan.org>",
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {
@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Language::SNUSP",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.0.1",
+  "VERSION" => "0.0.2",
   "test" => {
     "TESTS" => "t/*.t"
   }

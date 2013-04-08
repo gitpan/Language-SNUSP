@@ -8,5 +8,6 @@ README.txt
 bin/snusp
 dist.ini
 examples/fizzbuzz.snusp
+examples/hello-world.snusp
 lib/Language/SNUSP.pm
 t/test.t

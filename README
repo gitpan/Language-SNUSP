@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Language-SNUSP,
-version 0.0.1:
+version 0.0.2:
 
-  A SNUSP interpreter written in Perl
+  A SNUSP Interpreter and Visual Debugger
 
 This software is copyright (c) 2013 by Ingy döt Net <ingy@cpan.org>.
 
