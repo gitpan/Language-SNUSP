@@ -1,16 +1,13 @@
----
-version: 0.0.3
-date:    Wed Apr 10 13:55:10 PDT 2013
-changes:
-- Support input to programs
-- Add all the runnable c2 code snippets to the examples directory.
----
-version: 0.0.2
-date:    Mon Apr  8 00:39:26 PDT 2013
-changes:
-- Heavy refactoring to DRY out the code.
----
-version: 0.0.1
-date:    Sun Apr  7 10:25:23 PDT 2013
-changes:
-- Initial version.
+0.0.4 Sat Jun 14 13:36:04 PDT 2014
+ - Switch to Zilla::Dist
+
+0.0.3 Wed Apr 10 13:55:10 PDT 2013
+ - Support input to programs
+ - Add all the runnable c2 code snippets to the examples directory.
+
+0.0.2 Mon Apr  8 00:39:26 PDT 2013
+ - Heavy refactoring to DRY out the code.
+
+0.0.1 Sun Apr  7 10:25:23 PDT 2013
+ - Initial version.
+
