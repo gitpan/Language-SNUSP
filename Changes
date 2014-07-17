@@ -1,3 +1,7 @@
+0.0.5 Wed Jul 16 23:23:22 PDT 2014
+ - Move doc to Swim
+ - Fix Meta and add Contributing file
+
 0.0.4 Sat Jun 14 13:36:04 PDT 2014
  - Switch to Zilla::Dist
 
