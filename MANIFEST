@@ -22,5 +22,6 @@ example/multiply.snusp
 example/odd-word-problem.snusp
 lib/Language/SNUSP.pm
 lib/Language/SNUSP.pod
+t/000-compile-modules.t
 t/release-pod-syntax.t
 t/test.t
