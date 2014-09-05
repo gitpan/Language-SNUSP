@@ -13,7 +13,7 @@ DESCRIPTION
 
     *   <http://rosettacode.org/wiki/Category:SNUSP>
 
-    Here is the well known FizzBuzz algorithm, written in SNUSP:
+    Here is the well-known FizzBuzz algorithm, written in SNUSP:
 
                 /               'B' @=@@=@@++++#
                // /             'u' @@@@@=@+++++#
@@ -40,7 +40,7 @@ DESCRIPTION
                  |
                  \!/=dup==?\>>@\<!/back?\<<<#
                    \<<+>+>-/   |  \>+<- /
-                               |
+                              |
         /======================/
         |
         |       /recurse\    #/?\ zero
