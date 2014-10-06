@@ -1,3 +1,7 @@
+0.0.14 Mon Oct  6 21:26:59 CEST 2014
+ - Fix debugger warning
+ - Debugging begins in a 'stopped' state.
+
 0.0.13 Thu Sep  4 19:54:12 MDT 2014
  - Added the long missing hyphen from 'well-known'!!!
 
